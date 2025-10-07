@@ -1,11 +1,11 @@
 {
-    "name": "FireN1kto/CollectForPractic",
+    "name": "firen1kto/collect-for-practic",
     "description": "Module for working with arrays ",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "FireN1kto",
+            "name": "firen1kto",
             "email": "maksimcymbal77@gmail.com"
         }
     ],
